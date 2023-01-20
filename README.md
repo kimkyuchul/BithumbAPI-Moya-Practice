@@ -141,5 +141,5 @@ enum NetworkResult<T> {
 }
 ```
 
-NetworkResult을 enum화
+- NetworkResult을 enum화
 
